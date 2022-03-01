@@ -1,1 +1,1 @@
-My first commit
+Edited readme from GitHub
